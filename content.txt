@@ -1,0 +1,8 @@
+Kriptografi berasal dari bahasa yunani, menurut bahasa dibagi menjadi dua kripto dan graphia, 
+kripto berarti secret (rahasia) dan graphia berarti writing (tulisan).
+Menurut teminologinya kriptografi adalah ilmu dan seni untuk menjaga keamanan pesan ketika pesan di kirim dari suatu tempat ketempat yang lain.
+
+Implementasi dari kriptografi sangat banyak bisa kita temui dalam kehidupan sehari-hari, 
+seperti Automatic Teller Machine (ATM),Penggunaan ATM untuk banking, bahkan mulai meningkat menjadi Internet Banking, 
+Mobile Banking, Komunikasi elektronik seperti telepon tetap, cellular, SMS, MMS. 3G, Komunikasi via Internet seperti email, 
+messaging, chatting, Voice Call dan E-Government , E-Commence.
